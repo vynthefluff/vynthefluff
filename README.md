@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hiya, i'm vyn. also known as frapster :3
 
-<!--
-**vynthefluff/vynthefluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been interested in programming & development since **late 2020**, starting off making mods for Minecraft.
+Nowadays, I'm known for making mods in unity based games that utilise the mono runtime - primarily gorilla tag.
+The largest project I've worked on was an independent mod, *frap's casting mod* which was used often throughout 2024 in the competitive scene.
 
-Here are some ideas to get you started:
+Right now i'm studying Computer science and Electronics at GSCE level - I have been accepted to study **IT and Cyber** in Bridgend college!
+I spend the majority of my time in recent years learning more about programming, reverse engineering, and how many unity based games work internally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Software I work with
+
+**languages**
+- C#
+- Python
+- Java
+
+**tools**
+- Rider
+- VsCodium
+- IntelliJ Idea
+
+### i luv jetbrains products duh
+---
+
+## Projects
+
+My most popular project I've worked on was **Frap's Casting Mod**, which became popular due to the unique settings it had at the time.
+I was also known for producing and selling a Gorilla Tag Utility mod, **weave**, however that was discontinued due to personal reasons.
+
+### I am currently working on an *Open-Source* Recoded version of my old casting mod, designed with ease of use in mind.
+
+---
+
+## stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=vynthefluff&show_icons=true&theme=tokyonight)
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vynthefluff&layout=compact&theme=tokyonight)
+
+if you're here because of one of my projects, feel free to check out my repositories. Meow meow >:3
