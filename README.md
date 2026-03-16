@@ -4,8 +4,10 @@ I've been interested in programming & development since **late 2020**, starting 
 Nowadays, I'm known for making mods in unity based games that utilise the mono runtime - primarily gorilla tag.
 The largest project I've worked on was an independently developed mod, *frap's casting mod* which was used often throughout 2024 in the competitive scene.
 
-Right now i'm studying Computer science and Electronics at GSCE level - I have been accepted to study **IT and Cyber** in Bridgend college!
+Right now i'm studying Computer science and Electronics at GSCE level - I have been accepted to study **IT and Cyber** in Bridgend college, and plan to eventually work in CyberSec :3
 I spend the majority of my time in recent years learning more about programming, reverse engineering, and how many unity based games work internally.
+
+I also happen to be a furry femboy, if it wasnt obvious by me being a developer whom uses :3. My fursona is an arctic fox - which I made up while bored in biology class ;-;.
 
 ---
 
