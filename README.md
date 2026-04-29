@@ -1,4 +1,4 @@
-# Hiya, i'm vyn. also known as frapster :3
+# Hiya, i'm frapster, or you can call me Riley :3
 
 I've been interested in programming & development since **mid-late 2020**, starting off making mods for Minecraft and simple python scripts such as discord tools.
 Nowadays, I'm known for making mods in unity based games that utilise the mono runtime - primarily gorilla tag.
